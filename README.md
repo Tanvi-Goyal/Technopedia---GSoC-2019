@@ -37,14 +37,23 @@ But at times we,specially Tier 2 or Tier 3 college students and other beginners 
 ## Implementation Strategy
 
 The App would showcase various categories namely - Internships, Scholarships, Grants, Meetups, OSS,Programs, Research Papers.
+
 There would be filtrations based on Location,Date(Past,Upcoming(This Month, This Week, Today)), Technology Based(Machine Learning, Web Development, Artificial Intelligence, etc ….), Gender Based( Specially in grants ).
+
 User can view events and Like, Share to peers , Bookmark them. All Bookmarked events by the user would be displayed in a separate tab.
+
 Reminder Notifications for the Bookmarked events on periodic basis ex. One month and one week before the deadline.
+
 Disable Notifications and accessibility of the bookmarked feature is the deadline is gone. An additional option to permanently delete event from the bookmark tab or request pop-up for next year registrations of the event.
+
 Ability for newcomers to connect with past scholarships, grants and other opportunities holders and people to contribute by sharing their experiences of the same.They can start by sharing their preparations, tips proposals etc.
+
 People can contribute by adding new opportunities they know and want to share with their peers worldwide.Each contribution would be counted as a contribution to Systers Community.
+
 Crash Reporting Feature - Users can send the cause of the app crash via mail to the organisation which then could work upon the issues.
+
 People can showcase and put up their research papers and can get contributors and can form a team to work upon it.
+
 Users can browse profiles of other users if their app to see their achievements, contributions and general profile.
 
 ## Tech Stack
